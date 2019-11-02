@@ -1,7 +1,6 @@
 ---
 title: "Live Automatic Program Repair using Tests as Specifications"
 date: 2019-10-31T18:29:20Z
-disqus: false
 draft: false 
 tags: ["live", "apr", "testing", "vscode", "plugin"]
 ---
