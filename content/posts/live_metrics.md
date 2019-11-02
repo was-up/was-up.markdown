@@ -1,7 +1,6 @@
 ---
 title: "Supporting Software Development through Live Metrics Visualization"
 date: 2019-11-02T13:10:12Z
-disqus: false
 draft: false
 tags: ["live", "metrics", "visualization", "vscode", "plugin"]
 ---
@@ -19,4 +18,8 @@ However, we consider that this project had a very innovative aspect, since it jo
 
 ## Publications
 
-  1. Fernandes, Sara (2019). *Supporting Software Development through Live Metrics Visualization* (Master’s thesis, Faculdade de Engenharia da Universidade do Porto).
+  1. Fernandes, Sara (2019). *Supporting Software Development through Live Metrics Visualization* (Master’s Thesis, Faculdade de Engenharia da Universidade do Porto).
+
+## Students
+
+  * 2018&mdash;2019 Sara Fernandes, MSc: *"Supporting Software Development through Live Metrics Visualization"*

@@ -1,7 +1,6 @@
 ---
 title: "Automatically Generating Websites From Hand-Drawn Mockups"
 date: 2019-11-02T01:16:41Z
-disqus: false
 draft: false
 tags: ["live", "web", "machine learning"]
 ---
@@ -16,4 +15,10 @@ We provide a <abbr title="mean Average Precision">mAP</abbr> of 95.37%, with 90%
 
 ## Publications
 
-  1. Ferreira, João (2019). *Live web prototypes from hand-drawn mockups* (Master’s thesis, Faculdade de Engenharia da Universidade do Porto). 
+  1. Ferreira, João (2019). *Live web prototypes from hand-drawn mockups* (Master’s Thesis, Faculdade de Engenharia da Universidade do Porto).
+
+## Students
+
+  * 2018&mdash;2019 João Ferreira, MSc: *"Automatically Generating Websites From Hand-Drawn Mockups"*
+  * 2019&mdash;2020 Sofia Silva, MSc: *"Themeable Hand-Drawn Mockups"*
+  * 2019&mdash;2020 Ivo Amaro, MSc: *"A Case Study on a Visual Language for Generating Websites from Mockups"*

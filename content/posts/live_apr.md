@@ -12,4 +12,9 @@ We conducted a first empirical study with sixteen participants, and results show
 
 ## Publications
 
-  1. Campos, Diogo (2019). *Tests as Specifications towards better Code Completion* (Master’s thesis, Faculdade de Engenharia da Universidade do Porto).
+  1. Campos, Diogo (2019). *Tests as Specifications towards better Code Completion* (Master’s Thesis, Faculdade de Engenharia da Universidade do Porto).
+
+## Students
+
+  * 2018&mdash;2019 Diogo Campos, MSc: *"Tests as Specifications towards better Code Completion"*
+  * 2018&mdash;2019 Afonso Ramos, MSc: *"Property tests as specifications towards better code completion"*
