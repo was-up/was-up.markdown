@@ -1,6 +1,7 @@
 ---
 title: "Live Automatic Program Repair using Tests as Specifications"
 date: 2019-10-31T18:29:20Z
+disqus: false
 draft: false 
 ---
 Most developers are familiar with real-time syntactic code suggestions, usually provided by code completion tools, but semantic suggestions are seldom automatic and rarely real-time. Automated Program Repair (APR) is an area of research focused on the automatic generation of bug-fixing patches. While current approaches display promising results, they also present some limitations, namely overfitted patches and the low maintainability of generated code. We propose a live approach to APR, implemented as a Visual Studio Code extension, which leverages unit tests as specifications, and generates code variations to repair bugs in JavaScript. With this approach, we can provide real-time semantic suggestions, allowing developers to immediately discard those they deem overfitted or prone to reducing maintainability. 
