@@ -3,6 +3,7 @@ title: "Supporting Software Development through Live Metrics Visualization"
 date: 2019-11-02T13:10:12Z
 disqus: false
 draft: false
+tags: ["live", "metrics", "visualization", "vscode", "plugin"]
 ---
 Software systems are increasingly complex and extensive, making their understanding often difficult, costly and time-consuming. When we need to implement or change a feature in a system, it is often necessary to restructure it before changing it, doing refactoring, without modifying its external behaviors, improving not only its structure but also its comprehension and maintainability.
 
