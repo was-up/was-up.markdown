@@ -12,7 +12,7 @@ Designers often use physical hand-drawn mockups to convey their ideas to stakeho
   Your browser does not support the video tag.
 </video>
 
-We provide a *mAP* of 95.37%, with 90% of the tests taking less than 430ms on modest commodity hardware (&asymp;2.3fps).
+We provide a <abbr title="mean Average Precision">mAP</abbr> of 95.37%, with 90% of the tests taking less than 430ms on modest commodity hardware (&asymp;2.3fps).
 
 <video autoplay="autoplay" loop="loop" preload="auto" controls style="width: 100%">
   <source src="/videos/mockups2.mp4" type="video/mp4">
