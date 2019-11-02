@@ -9,5 +9,5 @@ pygmentscodefencesguesssyntax = true
 pygmentsStyle = "dracula"
 
 [params]
-    subtitle = "Wednesday Afternoon Software @ UP"
+    subtitle = "Wednesday Afternoon Support for the Uninformed Pupil"
     mode = "dark"
