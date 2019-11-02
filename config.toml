@@ -12,3 +12,4 @@ pygmentsStyle = "dracula"
     subtitle = "Wednesday Afternoon Support for the Uninformed Pupil"
     mode = "dark"
     disableDisqusTypes = ["page", "posts"]
+    customCSS = "css/was-up.css"
