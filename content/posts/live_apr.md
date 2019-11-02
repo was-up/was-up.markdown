@@ -12,3 +12,11 @@ Most developers are familiar with real-time syntactic code suggestions, usually 
 </video>
 
 We conducted a first empirical study with sixteen participants, and results show that this approach improves the speed in repairing faulty programs. We also found that some developers are eager to accept any solution fixing a defect, disregarding any maintenance concerns.
+
+
+# Publications
+
+
+  1. Campos, Diogo (2019). *Tests as Specifications towards better Code Completion
+
+* (Master’s thesis, Faculdade de Engenharia da Universidade do Porto).
