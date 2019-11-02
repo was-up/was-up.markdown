@@ -1,0 +1,13 @@
+baseURL = "https://was-up.github.io/"
+languageCode = "en-us"
+title = "WASUP"
+theme = "ezhil"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsStyle = "dracula"
+
+[params]
+    subtitle = "Wednesday Afternoon Software @ UP"
+    mode = "dark"

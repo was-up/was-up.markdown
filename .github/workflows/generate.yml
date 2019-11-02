@@ -1,0 +1,23 @@
+name: Generate Website Workflow
+
+on:
+  push:
+    branches: 
+      - master
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Build image
+        if: success()
+        run: docker build -t docker-wasup --build-arg GH_ACTION_DEPLOY_KEY="${{ secrets.GH_ACTION_DEPLOY_KEY }}" .
+
+      - name: Run docker
+        if: success()
+        run: docker run docker-wasup:latest
