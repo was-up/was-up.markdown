@@ -17,4 +17,4 @@ We conducted a first empirical study with sixteen participants, and results show
 ## Students
 
   * 2018&mdash;2019 Diogo Campos, MSc: *"Tests as Specifications towards better Code Completion"*
-  * 2018&mdash;2019 Afonso Ramos, MSc: *"Property tests as specifications towards better code completion"*
+  * 2019&mdash;2020 Afonso Ramos, MSc: *"Property tests as specifications towards better code completion"*
