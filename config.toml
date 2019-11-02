@@ -11,3 +11,4 @@ pygmentsStyle = "dracula"
 [params]
     subtitle = "Wednesday Afternoon Support for the Uninformed Pupil"
     mode = "dark"
+    disableDisqusTypes = ["page", "posts"]
