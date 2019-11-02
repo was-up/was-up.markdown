@@ -18,3 +18,9 @@ We provide a <abbr title="mean Average Precision">mAP</abbr> of 95.37%, with 90%
   <source src="/videos/mockups2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
+# Publications
+
+
+  1. Ferreira, João (2019). *Live web prototypes from hand-drawn mockups* (Master’s thesis, Faculdade de Engenharia da Universidade do Porto). 
