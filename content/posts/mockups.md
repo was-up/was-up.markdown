@@ -15,7 +15,7 @@ We provide a <abbr title="mean Average Precision">mAP</abbr> of 95.37%, with 90%
 
 ## Publications
 
-  1. Ferreira, João (2019). *Live web prototypes from hand-drawn mockups* (Master’s Thesis, Faculdade de Engenharia da Universidade do Porto).
+{{< bibtex file="msc-theses" refs="Ferreira:2019" >}}
 
 ## Students
 

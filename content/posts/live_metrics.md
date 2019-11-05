@@ -18,7 +18,7 @@ However, we consider that this project had a very innovative aspect, since it jo
 
 ## Publications
 
-  1. Fernandes, Sara (2019). *Supporting Software Development through Live Metrics Visualization* (Master’s Thesis, Faculdade de Engenharia da Universidade do Porto).
+{{< bibtex file="msc-theses" refs="Fernandes:2019" >}}
 
 ## Students
 

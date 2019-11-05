@@ -6,3 +6,16 @@ ul {
   padding-left: 40px;
   list-style: disc;
 }
+
+.csl-bib-body {
+  padding-left: 40px;
+}
+
+.csl-entry {
+  counter-increment: refcounter;
+  margin-bottom: 1em;
+}
+
+.csl-entry:before {
+  content: "[" counter(refcounter, decimal) "]   ";
+}

@@ -13,6 +13,7 @@ pygmentsStyle = "dracula"
     mode = "dark"
     disableDisqusTypes = ["page", "posts"]
     customCSS = "css/was-up.css"
+    customJS = [ "js/citation.min.js", "js/was-up.js"  ]
 
 [[params.social]]
     name = "Github"
