@@ -12,6 +12,7 @@ pygmentsStyle = "dracula"
     subtitle = "Wednesday Afternoon Support for the Uninformed Pupil"
     mode = "dark"
     disableDisqusTypes = ["projects", "publications"]
+    mainSections = ["projects", "publications"]
     customCSS = "css/was-up.css"
     customJS = [ "js/citation.min.js", "js/was-up.js"  ]
 
